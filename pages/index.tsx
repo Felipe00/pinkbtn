@@ -1,2 +1,2 @@
-const Index = ()=> ( <h1>Ilyverso</h1> );
+const Index = ()=> ( <h1>Storybook</h1> );
 export default Index;
